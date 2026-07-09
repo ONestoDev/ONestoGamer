@@ -31,14 +31,15 @@ Olá! 🖖
 | Introdução à Programação de Computadores | Cálculo 1 |
 | Fundamentos de Redes de Computadores | Lógica Aplicada a Computação |
 | Introdução a Segurança da Informação | Programação Estruturada | 
-| Pensamento Computacional | Educação Ambiental |
+| Educação Ambiental | Pensamento Computacional |
 | Comounicação e Expressão | Banco de Dados (modelagem SQL) | 
 | Algoritmos e Programação | Desenvolvimento Web (HTML, CSS, JS, PHP) |
 | Matemática Discreta | Arquitetura de Computadores |
 | Lóogica Matemática | Educação em Direitos Humanos | 
-| Fundamentos de Programação | Programação Orientado a Objetos |
-| Computação em Nuvem | Paradigmas em Python |
+| Fundamentos de Programação | Computação em Nuvem |
+| Programação Orientado a Objetos | POO em Python |
 | Portugês Instrumental | Macroeconomia 1 |
+
 
 
 # 📊 Estatísticas 
