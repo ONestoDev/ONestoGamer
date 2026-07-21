@@ -144,11 +144,26 @@ Coleção de projetos desenvolvidos durante uma jornada prática de Python:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ONestoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+<a href="https://github.com/ONestoDev">
+  <img
+    height="165"
+    alt="Estatísticas do GitHub de Ernesto"
+    src="https://github-readme-stats.vercel.app/api?username=ONestoDev&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&cache_seconds=86400"
+  />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONestoDev&layout=compact&theme=tokyonight&locale=pt-br" />
+<a href="https://github.com/ONestoDev">
+  <img
+    height="165"
+    alt="Linguagens mais utilizadas por Ernesto"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONestoDev&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&langs_count=6&cache_seconds=86400"
+  />
+</a>
 
 </div>
+
+> As estatísticas são geradas por um serviço externo e podem ficar temporariamente indisponíveis.
+
 
 ---
 
